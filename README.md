@@ -38,29 +38,7 @@ Version Control: Git & GitHub
 
 The dataset contains pizza sales transaction data with the following tables:
 
-orders
-
-order_details
-
-pizzas
-
-pizza_types
-
-Key Columns:
-
-Order ID
-
-Order Date & Time
-
-Pizza Name
-
-Category
-
-Size
-
-Quantity
-
-Price
+orders, order_details, pizzas, pizza_types, Order ID, Order Date & Time, Pizza Name, Category, Size, Quantity, Price
 
 📊 Key Performance Indicators (KPIs)
 
