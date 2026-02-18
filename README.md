@@ -98,11 +98,6 @@ Hourly Order Distribution
 
 🚀 How to Run This Project
 
-Clone this repository:
-
-git clone https://github.com//puneetsinghal9114/Pizza-sales-dashboard-project.git
-
-
 Import the dataset into your SQL database.
 
 Run the SQL queries provided in the project files.
